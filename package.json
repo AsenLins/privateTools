@@ -1,6 +1,6 @@
 {
   "name": "privatetools",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "私有工具包",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,7 @@
   "homepage": "https://github.com/AsenLins/privateTools#readme",
   "dependencies": {
     "amqplib": "^0.5.5",
-    "memcached": "^2.2.2"
+    "memcached": "^2.2.2",
+    "redis": "^2.8.0"
   }
 }
